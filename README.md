@@ -1,2 +1,2 @@
 # NN_iris_classification
-3 layer perceptron for classification of iris.
+3-layer perceptron for classification
